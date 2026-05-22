@@ -1,0 +1,19 @@
+{
+  "name": "Entreno · Casa",
+  "short_name": "Entreno",
+  "description": "Entrenamiento en casa: temporizador de circuitos, biblioteca de ejercicios y seguimiento de constancia. Datos en tu dispositivo, sin conexión.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0d0f",
+  "theme_color": "#0d0d0f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%230d0d0f'/%3E%3Ccircle cx='256' cy='256' r='170' fill='none' stroke='%232a2a33' stroke-width='40'/%3E%3Ccircle cx='256' cy='256' r='170' fill='none' stroke='%23e8412f' stroke-width='40' stroke-linecap='round' stroke-dasharray='1068' stroke-dashoffset='300' transform='rotate(-90 256 256)'/%3E%3Ctext x='256' y='315' font-family='%27Helvetica Neue%27, Helvetica, Arial, sans-serif' font-size='180' font-weight='900' fill='%23f4f4f5' text-anchor='middle'%3EE%3C/text%3E%3Ccircle cx='350' cy='200' r='20' fill='%23ffb020'/%3E%3C/svg%3E",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
